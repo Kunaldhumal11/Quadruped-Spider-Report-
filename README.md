@@ -17,3 +17,4 @@ HC-SR04 4Pin Ultrasonic Sensor
 HC-05 or HC-06 Bluetooth Module
 Female to Female jumper wire
 4 X M3 30mm Screws and nuts
+![spider-3-in-1_bb](https://github.com/user-attachments/assets/dbb1d518-4290-46fb-b4d5-49e3c3da5751)
